@@ -1,0 +1,6 @@
+filename: equylapta10reverificaion.zip
+local_size_bytes: 5842638
+local_sha256: fdccae38c8f7073ff531502d66798dd48209232e07a1684330dd0308bbccd1f7
+drive_size_bytes: 5842638
+drive_sha256: fdccae38c8f7073ff531502d66798dd48209232e07a1684330dd0308bbccd1f7
+timestamp: 2026-10-05 10:43:35

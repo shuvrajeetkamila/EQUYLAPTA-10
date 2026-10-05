@@ -1,0 +1,4 @@
+filename: equylapta10potatoverification.zip
+size_bytes: 5831474
+SHA-256: 33c715620529ac89ee93365dee8c5913a7ad4026c5b474b09381a3f0748b664d
+creation_timestamp: 2026-10-05 10:33:49

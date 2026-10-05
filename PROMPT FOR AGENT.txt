@@ -1,0 +1,19 @@
+Act as an expert machine learning engineer and software architect. I need you to generate a complete, production-ready implementation of the "EQUYLAPTA 10.1" pipeline based on the work order instructions provided below. 
+
+Please create all the necessary folders and Python script files inside a clean directory structure so I can easily download them or push them to a GitHub repository.
+
+### Requirements for the Code:
+1. Follow every hard rule from the work order (R1 to R13)—especially that no results can be hardcoded; everything must be computed dynamically by code and logged.
+2. Use the exact script filenames specified in the work order.
+3. Write clean, robust, and well-documented Python code using PyTorch, Transformers, Datasets, Scikit-Learn, and SciPy.
+
+### File Structure to Generate:
+Create the following files and code contents:
+- `code/common.py`: Shared utilities, logging configurations, and seed setters.
+- `code/metric.py`: Metrics including distinct-2, detector evaluation, and `agree` functions.
+- `code/hooks.py`: PyTorch forward hooks for block-level steering.
+- `code/reference_utils.py`: The full Appendix A reference utilities (Wilson intervals, McNemar tests, init-signature tests, weight diff report, fold bias, package_and_copy, and drive verification).
+- `code/tests/test_reference_utils.py`: The complete Appendix B unit tests.
+- Execution scripts from `code/00_setup_and_plan_freeze.py` all the way through `code/14_package_and_drive_copy.py`, ensuring each phase reads inputs, executes real logic, saves logs to `logs/`, and outputs status updates.
+
+Please generate these files step-by-step or provide them in a clean structured format.
